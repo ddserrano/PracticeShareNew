@@ -1,0 +1,29 @@
+2019/10/28-10:37:58.578 69b Reusing MANIFEST /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2019/10/28-10:37:58.579 69b Recovering log #30
+2019/10/28-10:37:58.607 69b Reusing old log /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000030.log 
+2019/10/28-10:43:04.276 73e Level-0 table #34: started
+2019/10/28-10:43:04.604 73e Level-0 table #34: 1725165 bytes OK
+2019/10/28-10:43:04.610 73e Delete type=0 #30
+2019/10/28-10:45:02.031 73e Level-0 table #36: started
+2019/10/28-10:45:02.236 73e Level-0 table #36: 1521232 bytes OK
+2019/10/28-10:45:02.243 73e Delete type=0 #33
+2019/10/28-10:52:04.605 73e Level-0 table #38: started
+2019/10/28-10:52:04.894 73e Level-0 table #38: 2746444 bytes OK
+2019/10/28-10:52:04.900 73e Delete type=0 #35
+2019/10/28-10:52:04.905 73e Compacting 4@0 + 3@1 files
+2019/10/28-10:52:05.292 73e Generated table #39@0: 10 keys, 2164852 bytes
+2019/10/28-10:52:05.580 73e Generated table #40@0: 8 keys, 2102857 bytes
+2019/10/28-10:52:06.012 73e Generated table #41@0: 7 keys, 2547417 bytes
+2019/10/28-10:52:06.099 73e Generated table #42@0: 7 keys, 357328 bytes
+2019/10/28-10:52:06.099 73e Compacted 4@0 + 3@1 files => 7172454 bytes
+2019/10/28-10:52:06.113 73e compacted to: files[ 0 4 1 0 0 0 0 ]
+2019/10/28-10:52:06.114 73e Delete type=2 #31
+2019/10/28-10:52:06.115 73e Delete type=2 #27
+2019/10/28-10:52:06.116 73e Delete type=2 #34
+2019/10/28-10:52:06.117 73e Delete type=2 #28
+2019/10/28-10:52:06.118 73e Delete type=2 #29
+2019/10/28-10:52:06.119 73e Delete type=2 #38
+2019/10/28-10:52:06.121 73e Delete type=2 #36
+2019/10/28-11:02:09.938 73e Level-0 table #44: started
+2019/10/28-11:02:10.333 73e Level-0 table #44: 3493132 bytes OK
+2019/10/28-11:02:10.347 73e Delete type=0 #37

@@ -1,0 +1,91 @@
+BlueJ run started: Tue Jul 09 19:54:51 CDT 2019
+BlueJ version 4.2.1
+Java version 11.0.3
+JavaFX version 11.0.2-internal+0-2019-01-20-152528
+Virtual machine: OpenJDK Server VM 11.0.3+7-post-Raspbian-5 (Raspbian)
+Running on: Linux 4.19.57-v7+ (arm)
+Java Home: /usr/lib/jvm/java-11-openjdk-armhf
+----
+Detected language "english" based on iso639-2 code "eng"
+Internal error: Update stats failed: java.net.UnknownHostException: stats.bluej.org
+java.net.UnknownHostException: blackbox.bluej.org: Temporary failure in name resolution
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:929)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1515)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:848)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.resolveHostname(DefaultClientConnectionOperator.java:242)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:130)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:149)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:121)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:561)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:415)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:820)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:754)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:732)
+	at bluej.collect.DataSubmitter.postData(DataSubmitter.java:183)
+	at bluej.collect.DataSubmitter.processQueue(DataSubmitter.java:135)
+	at bluej.collect.DataSubmitter$1.run(DataSubmitter.java:107)
+====
+
+====
+BlueJ run started: Thu Sep 26 10:50:25 CDT 2019
+BlueJ version 4.2.1
+Java version 11.0.3
+JavaFX version 11.0.2-internal+0-2019-01-20-152528
+Virtual machine: OpenJDK Server VM 11.0.3+7-post-Raspbian-5 (Raspbian)
+Running on: Linux 4.19.57-v7+ (arm)
+Java Home: /usr/lib/jvm/java-11-openjdk-armhf
+----
+Detected language "english" based on iso639-2 code "eng"
+====
+
+====
+BlueJ run started: Wed Oct 23 11:32:40 CDT 2019
+BlueJ version 4.2.1
+Java version 11.0.3
+JavaFX version 11.0.2-internal+0-2019-01-20-152528
+Virtual machine: OpenJDK Server VM 11.0.3+7-post-Raspbian-5 (Raspbian)
+Running on: Linux 4.19.57-v7+ (arm)
+Java Home: /usr/lib/jvm/java-11-openjdk-armhf
+----
+Detected language "english" based on iso639-2 code "eng"
+Opening project: /home/pi/SEfirst2019/MyFirstProject
+1571848394377: Listening for JDWP connection on address: 127.0.0.1:54795
+Connected to debug VM via dt_socket transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: /home/pi/.bluej/import-cache.xml (No such file or directory)
+====
+
+====
+BlueJ run started: Wed Oct 23 11:49:41 CDT 2019
+BlueJ version 4.2.1
+Java version 11.0.3
+JavaFX version 11.0.2-internal+0-2019-01-20-152528
+Virtual machine: OpenJDK Server VM 11.0.3+7-post-Raspbian-5 (Raspbian)
+Running on: Linux 4.19.57-v7+ (arm)
+Java Home: /usr/lib/jvm/java-11-openjdk-armhf
+----
+Detected language "english" based on iso639-2 code "eng"
+====
+
+====
+BlueJ run started: Fri Oct 25 11:22:56 CDT 2019
+BlueJ version 4.2.1
+Java version 11.0.3
+JavaFX version 11.0.2-internal+0-2019-01-20-152528
+Virtual machine: OpenJDK Server VM 11.0.3+7-post-Raspbian-5 (Raspbian)
+Running on: Linux 4.19.57-v7+ (arm)
+Java Home: /usr/lib/jvm/java-11-openjdk-armhf
+----
+Detected language "english" based on iso639-2 code "eng"
+Opening project: /home/pi/SEfirst2019/MyFirstProject
+1572020590502: Listening for JDWP connection on address: 127.0.0.1:51897
+Connected to debug VM via dt_socket transport...
+Communication with debug VM fully established.
+Opening project: /home/pi/PracticeShare/MyFirstProject-copy
+1572020625666: Listening for JDWP connection on address: 127.0.0.1:57179
+Connected to debug VM via dt_socket transport...
+Communication with debug VM fully established.

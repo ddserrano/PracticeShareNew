@@ -1,0 +1,429 @@
+** Message: 12:18:17.359: environement.vala:58: Exporting primary_variable
+** Message: 12:18:17.359: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 12:18:17.359: environement.vala:150: confir_dirs is null, export : /etc/xdg
+** Message: 12:18:17.359: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 12:18:17.359: environement.vala:218: custom_data :
+** Message: 12:18:17.359: environement.vala:219: data_dirs :/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 12:18:17.359: environement.vala:220: data_dirs not null, export : /usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 12:18:17.360: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 12:18:17.360: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 12:18:17.361: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 12:18:17.361: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 12:18:17.361: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 12:18:17.362: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:534): WARNING **: 12:18:17.363: utils.vala:70: No such file or directory
+** Message: 12:18:17.363: settings.vala:540: Key file does not have key “iGtk/ColorScheme” in group “GTK”
+** Message: 12:18:17.363: settings.vala:540: Key file does not have key “windows_manager/command” in group “Session”
+** Message: 12:18:17.363: settings.vala:540: Key file does not have key “panel/command” in group “Session”
+** Message: 12:18:17.363: settings.vala:540: Key file does not have key “dock/command” in group “Session”
+** Message: 12:18:17.364: settings.vala:540: Key file does not have key “file_manager/command” in group “Session”
+** Message: 12:18:17.364: settings.vala:540: Key file does not have key “desktop_manager/command” in group “Session”
+** Message: 12:18:17.364: settings.vala:540: Key file does not have key “launcher_manager/autostart” in group “Session”
+** Message: 12:18:17.364: settings.vala:540: Key file does not have key “composite_manager/command” in group “Session”
+** Message: 12:18:17.364: settings.vala:540: Key file does not have key “im1/command” in group “Session”
+** Message: 12:18:17.364: settings.vala:540: Key file does not have key “im2/command” in group “Session”
+** Message: 12:18:17.364: settings.vala:540: Key file does not have key “widget1/command” in group “Session”
+** Message: 12:18:17.364: settings.vala:540: Key file does not have key “notification/command” in group “Session”
+** Message: 12:18:17.364: settings.vala:540: Key file does not have key “keybindings/command” in group “Session”
+** Message: 12:18:17.364: settings.vala:540: Key file does not have key “im_manager/command” in group “Session”
+** Message: 12:18:17.364: settings.vala:540: Key file does not have key “screensaver/command” in group “Session”
+** Message: 12:18:17.364: settings.vala:540: Key file does not have key “power_manager/command” in group “Session”
+** Message: 12:18:17.364: settings.vala:540: Key file does not have key “audio_manager/command” in group “Session”
+** Message: 12:18:17.364: settings.vala:540: Key file does not have key “workspace_manager/command” in group “Session”
+** Message: 12:18:17.365: settings.vala:540: Key file does not have key “screenshot_manager/command” in group “Session”
+** Message: 12:18:17.365: settings.vala:540: Key file does not have key “message_manager/command” in group “Session”
+** Message: 12:18:17.365: settings.vala:540: Key file does not have key “upgrade_manager/command” in group “Session”
+** Message: 12:18:17.365: settings.vala:540: Key file does not have key “updates_manager/command” in group “Session”
+** Message: 12:18:17.365: settings.vala:540: Key file does not have key “updates_manager/timeout” in group “Session”
+** Message: 12:18:17.365: settings.vala:540: Key file does not have key “crash_manager/command” in group “Session”
+** Message: 12:18:17.365: settings.vala:540: Key file does not have key “crash_manager/dev_mode” in group “Session”
+** Message: 12:18:17.365: settings.vala:540: Key file does not have key “crash_manager/timeout” in group “Session”
+** Message: 12:18:17.365: settings.vala:540: Key file does not have key “upstart_user_session” in group “Session”
+** Message: 12:18:17.365: settings.vala:540: Key file does not have key “proxy_manager/http” in group “Session”
+** Message: 12:18:17.370: settings.vala:540: Key file does not have key “a11y/command” in group “Session”
+** Message: 12:18:17.370: settings.vala:540: Key file does not have key “xrandr/command” in group “Session”
+** Message: 12:18:17.370: settings.vala:540: Key file does not have key “network_gui/command” in group “Session”
+** Message: 12:18:17.370: settings.vala:540: Key file does not have key “webbrowser/command” in group “Session”
+** Message: 12:18:17.370: settings.vala:540: Key file does not have key “email/command” in group “Session”
+** Message: 12:18:17.370: settings.vala:540: Key file does not have key “pdf_reader/command” in group “Session”
+** Message: 12:18:17.370: settings.vala:540: Key file does not have key “video_player/command” in group “Session”
+** Message: 12:18:17.370: settings.vala:540: Key file does not have key “audio_player/command” in group “Session”
+** Message: 12:18:17.370: settings.vala:540: Key file does not have key “images_display/command” in group “Session”
+** Message: 12:18:17.370: settings.vala:540: Key file does not have key “text_editor/command” in group “Session”
+** Message: 12:18:17.371: settings.vala:540: Key file does not have key “archive/command” in group “Session”
+** Message: 12:18:17.371: settings.vala:540: Key file does not have key “charmap/command” in group “Session”
+** Message: 12:18:17.371: settings.vala:540: Key file does not have key “calculator/command” in group “Session”
+** Message: 12:18:17.371: settings.vala:540: Key file does not have key “spreadsheet/command” in group “Session”
+** Message: 12:18:17.371: settings.vala:540: Key file does not have key “bittorent/command” in group “Session”
+** Message: 12:18:17.371: settings.vala:540: Key file does not have key “document/command” in group “Session”
+** Message: 12:18:17.371: settings.vala:540: Key file does not have key “webcam/command” in group “Session”
+** Message: 12:18:17.371: settings.vala:540: Key file does not have key “burn/command” in group “Session”
+** Message: 12:18:17.371: settings.vala:540: Key file does not have key “notes/command” in group “Session”
+** Message: 12:18:17.371: settings.vala:540: Key file does not have key “disk_utility/command” in group “Session”
+** Message: 12:18:17.371: settings.vala:540: Key file does not have key “tasks/command” in group “Session”
+** Message: 12:18:17.371: settings.vala:540: Key file does not have group “Keymap”
+** Message: 12:18:17.371: settings.vala:540: Key file does not have key “laptop_mode” in group “State”
+** Message: 12:18:17.371: settings.vala:540: Key file does not have key “gnome” in group “Dbus”
+** Message: 12:18:17.372: settings.vala:540: Key file does not have key “type” in group “Environment”
+** Message: 12:18:17.372: settings.vala:540: Key file does not have key “ubuntu_menuproxy” in group “Environment”
+** Message: 12:18:17.372: settings.vala:540: Key file does not have key “toolkit_integration” in group “Environment”
+** Message: 12:18:17.372: settings.vala:540: Key file does not have key “gtk/overlay_scrollbar_disable” in group “Environment”
+** Message: 12:18:17.372: settings.vala:540: Key file does not have key “qt/force_theme” in group “Environment”
+** Message: 12:18:17.372: settings.vala:540: Key file does not have key “qt/platform” in group “Environment”
+** Message: 12:18:17.373: settings.vala:462: Monitoring: /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 12:18:17.373: settings.vala:470: Desktop file is not in config home, monitoring creation of it
+** Message: 12:18:17.373: settings.vala:485: Monitoring home path: /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: 12:18:17.373: environement.vala:79: Exporting variable
+** Message: 12:18:17.373: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 12:18:17.373: environement.vala:177: custom_config :
+** Message: 12:18:17.373: environement.vala:178: config_dirs :/etc/xdg
+** Message: 12:18:17.373: environement.vala:179: confir_dirs not null, export : /etc/xdg
+** Message: 12:18:17.373: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 12:18:17.374: environement.vala:218: custom_data :
+** Message: 12:18:17.374: environement.vala:219: data_dirs :/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 12:18:17.374: environement.vala:220: data_dirs not null, export : /usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 12:18:17.374: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 12:18:17.374: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 12:18:17.374: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:534): WARNING **: 12:18:17.374: utils.vala:70: No such file or directory
+** Message: 12:18:17.374: environement.vala:254: No entry in [Environment_variable]. Key file does not have group “Environment_variable”
+** Message: 12:18:17.378: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 12:18:17.378: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 12:18:17.378: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 12:18:17.378: options.vala:164: Activate xsettings_manager build-in
+** Message: 12:18:17.379: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 12:18:17.379: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:534): WARNING **: 12:18:17.379: utils.vala:70: No such file or directory
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
+** Message: 12:18:17.405: app.vala:721: polkit separate
+** Message: 12:18:17.405: app.vala:721: polkit separate
+** Message: 12:18:17.413: app.vala:76: Launching lxpolkit 
+** Message: 12:18:17.413: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 12:18:17.413: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 12:18:17.414: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 12:18:17.414: autostart.vala:42: Autostart path : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 12:18:17.432: app.vala:76: Launching lxpanel 
+** Message: 12:18:17.452: app.vala:76: Launching pcmanfm 
+
+** (lxsession:534): WARNING **: 12:18:17.471: app.vala:86: Failed to execute child process “xscreensaver” (No such file or directory)
+
+** (lxsession:534): WARNING **: 12:18:17.471: app.vala:87: Error when launching xscreensaver
+** Message: 12:18:17.479: app.vala:76: Launching point-rpi 
+** Message: 12:18:17.486: options.vala:107: Create build-in Clipboard
+** Message: 12:18:17.488: main.vala:441: Check keymap_mode (null)
+** Message: 12:18:17.492: app.vala:76: Launching /usr/bin/ssh-agent 
+SSH_AUTH_SOCK=/tmp/ssh-vMzPF6SIKeb1/agent.644; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=646; export SSH_AGENT_PID;
+echo Agent pid 646;
+** Message: 12:18:17.726: app.vala:130: point-rpi exit with this type of exit: 0
+** Message: 12:18:17.726: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+** Message: 12:18:17.796: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: 12:18:17.839: x-terminal-emulator has very limited support, consider choose another terminal
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(lxpanel:637): GLib-GObject-CRITICAL **: 12:18:19.125: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(lxpanel:637): GLib-GObject-CRITICAL **: 12:18:19.137: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(lxpanel:637): GLib-GObject-CRITICAL **: 12:18:19.142: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+** Message: 12:18:19.204: Connecting ...
+** Message: 12:18:19.204: Status changed to down
+Unit pt-device-manager.service could not be found.
+
+** (lxpanel:637): WARNING **: 12:18:19.354: Battery 0 not found
+** Message: 12:18:19.359: bt: Name org.bluez owned on DBus
+** Message: 12:18:19.368: bt: New agent manager found
+** Message: 12:18:19.370: bt: New adapter found
+** Message: 12:18:19.503: va: Name org.bluez owned on DBus
+** Message: 12:18:20.206: Status changed to opened
+** Message: 12:18:20.207: Connected to dhcpcd-7.0.8
+** Message: 12:18:20.210: Status changed to connected
+** Message: 12:18:20.210: wlan0: Associated with Guest-SD203
+** Message: 12:18:20.210: wlan0: Configured 10.97.199.125/8
+** Message: 12:18:20.210: eth0: Link is down
+** Message: 12:18:20.213: wlan0: WPA status connected
+** Message: 12:18:20.214: wlan0: Received scan results
+/usr/bin/x-www-browser 
+ --disable-quic --enable-tcp-fast-open --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
+/usr/bin/x-www-browser 
+ --disable-quic --enable-tcp-fast-open --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
+libEGL warning: DRI2: failed to authenticate
+libEGL warning: DRI2: failed to authenticate
+[795:1053:1025/121828.212098:ERROR:object_proxy.cc(619)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+[897:897:1025/121828.490237:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[898:898:1025/121828.490237:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[814:852:1025/121829.572814:ERROR:browser_process_sub_thread.cc(217)] Waited 98 ms for network service
+Opening in existing browser session.
+[795:853:1025/121835.052754:ERROR:browser_process_sub_thread.cc(217)] Waited 52 ms for network service
+lxterminal
+lxterminal
+/usr/bin/x-www-browser 
+ --disable-quic --enable-tcp-fast-open --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
+libEGL warning: DRI2: failed to authenticate
+[1383:1500:1028/103756.678571:ERROR:object_proxy.cc(619)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+[1428:1428:1028/103757.436001:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1:7:1028/103757.615102:ERROR:command_buffer_proxy_impl.cc(125)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[1432:1504:1028/103802.776246:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/103802.798586:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/103802.801057:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/103802.860338:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/103802.861405:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/103802.862161:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/103810.986379:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/103811.017501:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/103812.398689:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/103812.434251:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+** Message: 10:38:20.453: wlan0: Received scan results
+** Message: 10:39:20.460: wlan0: Received scan results
+** Message: 10:40:20.452: wlan0: Received scan results
+[1432:1504:1028/104100.373988:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104100.389763:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+** Message: 10:41:20.448: wlan0: Received scan results
+pcmanfm 
+geany '/home/pi/Download2019/student e1520/HTMLChecker.java' 
+** Message: 10:42:20.453: wlan0: Received scan results
+** Message: 10:43:20.450: wlan0: Received scan results
+** Message: 10:44:20.460: wlan0: Received scan results
+[1432:1504:1028/104503.605750:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104503.618898:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104503.629686:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104503.639090:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104503.713044:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104503.719340:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104503.740074:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104503.742643:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104503.748183:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104503.765839:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104503.897146:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104503.913110:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104510.840675:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104510.842796:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104510.846181:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104510.849111:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104510.858383:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104510.862117:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104510.867927:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104510.869292:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104511.415583:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104511.416867:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104511.417926:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104511.435485:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104511.436003:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104511.436400:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104515.810035:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104515.810479:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104515.812738:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104515.826633:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104515.827902:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104515.833273:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104516.918315:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104516.919461:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104516.919800:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104516.922954:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104516.944356:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104516.945939:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104516.946365:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104516.959044:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+** Message: 10:45:20.456: wlan0: Received scan results
+[1432:1504:1028/104529.633197:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104529.634345:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104529.657168:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104529.664575:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104535.186522:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104535.192215:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104535.213256:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104535.214170:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104535.239806:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104535.267129:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104535.269124:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104535.281037:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104535.282038:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104535.299881:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104535.405194:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104535.419490:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104540.514196:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104540.525308:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104540.526935:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104540.530869:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104540.533899:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104540.542515:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104540.543265:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104540.543521:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104541.176082:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104541.212358:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104541.212967:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104541.229818:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104541.231949:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/104541.234313:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+** Message: 10:46:20.458: wlan0: Received scan results
+** Message: 10:47:20.455: wlan0: Received scan results
+** Message: 10:48:20.455: wlan0: Received scan results
+** Message: 10:49:20.450: wlan0: Received scan results
+[1432:1504:1028/105006.260830:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105006.263227:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105006.263643:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105006.280292:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105006.282359:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105006.283165:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105007.777961:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105007.779256:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105007.789718:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105007.794733:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105007.797624:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105007.799973:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105007.810074:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105007.813173:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105008.918975:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105008.934167:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105009.084769:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105009.097906:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105014.329837:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105014.354794:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105014.355200:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105014.369001:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105014.384926:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105014.388820:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105014.406050:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105014.406460:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105014.415966:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105014.429601:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105014.545981:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105014.558103:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105017.966537:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105017.968027:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105017.981445:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105017.982617:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105017.983636:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105017.991932:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105017.999154:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105018.004063:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105018.762565:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105018.815160:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105018.815740:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105018.836258:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105018.842683:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105018.848311:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+** Message: 10:50:20.465: wlan0: Received scan results
+[1432:1504:1028/105022.629102:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105022.630215:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105022.630730:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105022.648942:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105022.657289:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105022.658811:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105023.591448:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105023.598026:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105023.602840:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105023.603414:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105023.618606:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105023.633378:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105023.633798:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105023.634011:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105102.196250:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105102.207471:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+** Message: 10:51:20.459: wlan0: Received scan results
+[1432:1504:1028/105154.304613:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105154.318383:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105156.097859:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105156.122749:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+pcmanfm 
+geany '/home/pi/Download2019/student e1520/HTMLChecker.java' 
+** Message: 10:52:20.455: wlan0: Received scan results
+geany '/home/pi/PracticeShare/MyFirstProject-copy/HTMLChecker.java' 
+[1432:1504:1028/105302.291619:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105302.303352:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+** Message: 10:53:20.458: wlan0: Received scan results
+lxterminal
+lxterminal
+** Message: 10:54:20.455: wlan0: Received scan results
+[1432:1504:1028/105456.872790:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105456.891853:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105458.082832:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105458.188860:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105502.407266:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105502.422117:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+geany '/home/pi/Download2019/student e1520/HTMLChecker.java' 
+** Message: 10:55:20.464: wlan0: Received scan results
+** Message: 10:56:20.462: wlan0: Received scan results
+lxterminal
+[1432:1504:1028/105702.464187:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105702.475890:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105706.124565:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105706.140837:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105706.194185:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105706.215788:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105709.491168:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105709.507633:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105711.326412:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105711.345822:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105712.353812:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105712.366708:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105719.129983:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105719.141775:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105720.197623:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105720.221684:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+** Message: 10:57:20.458: wlan0: Received scan results
+[1432:1504:1028/105721.524335:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105721.536646:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105723.287322:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105723.301616:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105725.575326:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105725.588080:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105730.386238:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105730.397950:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105732.358980:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105732.370716:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105733.514355:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105733.525555:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+** Message: 10:58:20.458: wlan0: Received scan results
+[1432:1504:1028/105826.252678:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105826.269546:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105826.288924:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105826.309415:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105902.509733:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/105902.523132:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+** Message: 10:59:20.466: wlan0: Received scan results
+** Message: 11:00:20.464: wlan0: Received scan results
+** Message: 11:01:20.463: wlan0: Received scan results
+[1432:1504:1028/110132.748645:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110132.767661:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110132.795152:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110132.818812:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110148.591010:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110148.606928:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110149.663992:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110149.675449:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+** Message: 11:02:20.466: wlan0: Received scan results
+** Message: 11:03:20.472: wlan0: Received scan results
+geany '/home/pi/PracticeShare/MyFirstProject-copy/HTMLChecker.java' 
+** Message: 11:04:20.463: wlan0: Received scan results
+[1432:1504:1028/110447.158126:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110447.175575:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110448.410731:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110448.427072:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110508.001506:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110508.017449:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110511.757208:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110511.780137:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+** Message: 11:05:20.479: wlan0: Received scan results
+pcmanfm 
+geany '/home/pi/Download2019/student2 e156/FirstLetterMap.java' 
+** Message: 11:06:20.469: wlan0: Received scan results
+[1432:1504:1028/110631.633608:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110631.634172:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110631.658505:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110631.665659:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110650.045455:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110650.057569:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+lxterminal
+** Message: 11:07:20.490: wlan0: Received scan results
+[1432:1504:1028/110733.466404:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110733.490988:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110733.546886:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110733.566139:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110733.773715:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1432:1504:1028/110733.787283:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -101
+pcmanfm 
